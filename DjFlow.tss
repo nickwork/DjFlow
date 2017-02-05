@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\nick\Documents\Visual Studio 2015\Projects\DjFlow\DjFlow\DjFlow\urls.py</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\nick\Documents\Visual Studio 2015\Projects\DjFlow\DjFlow\DjFlow\wsgi.py</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\nick\Documents\Visual Studio 2015\Projects\DjFlow\DjFlow\DjFlow\settings.py</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\nick\Documents\Visual Studio 2015\Projects\DjFlow\DjFlow\DjFlow\__init__.py</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\nick\Documents\Visual Studio 2015\Projects\DjFlow\DjFlow\manage.py</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\nick\Documents\Visual Studio 2015\Projects\DjFlow\DjFlow\app\templates\app\layout.html</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\nick\Documents\Visual Studio 2015\Projects\DjFlow\DjFlow\app\templates\app\index.html</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\nick\Documents\Visual Studio 2015\Projects\DjFlow\DjFlow\app\views.py</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\nick\Documents\Visual Studio 2015\Projects\DjFlow\DjFlow\app\forms.py</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\nick\Documents\Visual Studio 2015\Projects\DjFlow\DjFlow\app\models.py</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\nick\Documents\Visual Studio 2015\Projects\DjFlow\DjFlow\app\templates\app\about.html</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\nick\Documents\Visual Studio 2015\Projects\DjFlow\DjFlow\app\templates\app\test.html</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\nick\Documents\Visual Studio 2015\Projects\DjFlow\DjFlow\app\tests.py</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\nick\Documents\Visual Studio 2015\Projects\DjFlow\DjFlow\app\templates\app\contact.html</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
